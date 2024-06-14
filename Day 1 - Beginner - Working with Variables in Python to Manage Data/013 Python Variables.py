@@ -11,4 +11,3 @@ b=c
 # 🚨 Don't change the code below 👇
 print("a: " + a)
 print("b: " + b)
-
